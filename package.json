@@ -1,0 +1,12 @@
+{
+  "id": "bacecamp",
+  "name": "bacecamp",
+  "version": "1.0.0",
+  "description": "Basecamp",
+  "main": "index.js",
+  "author": "Brady Holt <brady.holt@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://launchpad.37signals.com/signin"
+  }
+}
