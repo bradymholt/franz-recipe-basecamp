@@ -1,6 +1,6 @@
 {
-  "id": "bacecamp",
-  "name": "bacecamp",
+  "id": "basecamp",
+  "name": "basecamp",
   "version": "1.0.0",
   "description": "Basecamp",
   "main": "index.js",
