@@ -10,5 +10,5 @@ module.exports = (Franz, options) => {
 
 
   // check for new messages every second and update Franz badge
-  Franz.loop(getMessages);
+  Franz.loop(getMessages, 30);
 };
